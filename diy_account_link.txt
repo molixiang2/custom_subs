@@ -1,2 +1,2 @@
 vmess://ws+tls:bbb09ea3-63e8-2ddb-9fe0-e29bfb8ba7eb@172.64.159.58:443/?path=/xiaevws&tlsServerName=late-lake-abc6.pages.dev#
-vless://81e5d8df-7edc-7130-9b3d-7899d83e18ad@172.64.159.58:443?type=ws&security=tls&path=%2Fyautws&host&sni=purple-sun-9dt0.pages.dev&alpn=http%2F1.1#likelake.ga%20%20%20%20
+vless://81e5d8df-7edc-7130-9b3d-7899d83e18ad@172.64.159.58:443?type=ws&security=tls&path=%2Fyautws&host=purple-sun-9dt0.pages.dev&sni=purple-sun-9dt0.pages.dev&alpn=http%2F1.1#likelake.ga%20%20%20%20
